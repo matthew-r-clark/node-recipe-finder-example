@@ -1,0 +1,17 @@
+{
+  "name": "recipe-finder",
+  "version": "1.0.0",
+  "description": "Finds recipe from http://www.recipepuppy.com/api/ for lasagna with pesto containing the most ingredients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matt Clark",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
